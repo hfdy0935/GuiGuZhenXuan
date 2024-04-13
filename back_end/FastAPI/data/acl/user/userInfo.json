@@ -1,0 +1,649 @@
+[
+  {
+    "createTime": "2024-03-02 21:17:19",
+    "updateTime": "2024-03-09 11:40:42",
+    "id": 1,
+    "name": "超级管理员1",
+    "password": "09354121794",
+    "phone": "15496654892",
+    "roleName": [
+      "超级管理员"
+    ],
+    "username": "admin",
+    "avatar": "/api/static/acl/user/profilePicture/p48.jpg"
+  },
+  {
+    "createTime": "2020-02-26 17:20:01",
+    "updateTime": "2024-03-09 15:35:19",
+    "id": 2,
+    "name": "黄勇小1",
+    "password": "123456",
+    "phone": "17371566039",
+    "roleName": [
+      "后端"
+    ],
+    "username": "oliviamno1",
+    "avatar": "/api/static/acl/user/profilePicture/v2-eaf3e9ca4beece25ef60d6e3de02945c_720w.webp"
+  },
+  {
+    "createTime": "2020-07-27 17:44:44",
+    "updateTime": "2024-03-09 16:27:46",
+    "id": 3,
+    "name": "刘华涛",
+    "password": "lo4QQz6Y",
+    "phone": "12744142536",
+    "roleName": [
+      "医生",
+      "后勤"
+    ],
+    "username": "sarajkl",
+    "avatar": "/api/static/acl/user/profilePicture/p41.jpg"
+  },
+  {
+    "createTime": "2022-10-09 14:14:05",
+    "updateTime": "2024-03-09 10:03:23",
+    "id": 4,
+    "name": "李丽",
+    "password": "OQ84LIEr",
+    "phone": "18806372886",
+    "roleName": [
+      "前端"
+    ],
+    "username": "ethanstu",
+    "avatar": "/api/static/acl/user/profilePicture/p47.jpg"
+  },
+  {
+    "createTime": "2021-03-04 15:53:09",
+    "updateTime": "2024-03-09 15:35:28",
+    "id": 5,
+    "name": "郭勇小",
+    "password": "qmUvDUHR",
+    "phone": "15794994686",
+    "roleName": [
+      "厨子",
+      "保洁"
+    ],
+    "username": "hannahmno",
+    "avatar": "/api/static/acl/user/profilePicture/p39.jpg"
+  },
+  {
+    "createTime": "2020-09-11 14:26:14",
+    "updateTime": "2023-06-16 10:44:40",
+    "id": 6,
+    "name": "李军红",
+    "password": "1q7CKWKP",
+    "phone": "16317836514",
+    "roleName": [
+      "主管"
+    ],
+    "username": "alexghi",
+    "avatar": "/api/static/acl/user/profilePicture/p47.jpg"
+  },
+  {
+    "createTime": "2022-12-05 19:39:29",
+    "updateTime": "2023-07-19 09:14:19",
+    "id": 7,
+    "name": "罗杰军",
+    "password": "tdjeG3Vw",
+    "phone": "10133904281",
+    "roleName": [
+      "前端",
+      "销售"
+    ],
+    "username": "awdsavwx",
+    "avatar": "/api/static/acl/user/profilePicture/v2-879d7882f775f7babc978922373d56f0_720w.webp"
+  },
+  {
+    "createTime": "2022-05-25 19:27:47",
+    "updateTime": "2024-03-09 11:37:37",
+    "id": 8,
+    "name": "郭勇",
+    "password": "TOoonmIW",
+    "phone": "12706707900",
+    "roleName": [
+      "运营"
+    ],
+    "username": "sophie789",
+    "avatar": "/api/static/acl/user/profilePicture/p26.jpg"
+  },
+  {
+    "createTime": "2021-08-07 20:36:10",
+    "updateTime": "2022-06-16 01:51:51",
+    "id": 9,
+    "name": "李涛军",
+    "password": "TAZjo56Z",
+    "phone": "19499129573",
+    "roleName": [
+      "医生"
+    ],
+    "username": "michaelpqr",
+    "avatar": "/api/static/acl/user/profilePicture/p20.webp"
+  },
+  {
+    "createTime": "2021-06-08 12:50:02",
+    "updateTime": "2023-09-08 19:28:21",
+    "id": 10,
+    "name": "马杰军",
+    "password": "rtEMQrdH",
+    "phone": "12044123470",
+    "roleName": [
+      "测试",
+      "前端"
+    ],
+    "username": "ryanvwx",
+    "avatar": "/api/static/acl/user/profilePicture/p36.jpg"
+  },
+  {
+    "createTime": "2020-09-01 17:33:40",
+    "updateTime": "2024-03-25 13:25:28",
+    "id": 11,
+    "name": "何芳晓",
+    "password": "zOXmH1L4",
+    "phone": "17299581303",
+    "roleName": [
+      "厨子",
+      "销售",
+      "前端"
+    ],
+    "username": "michael234",
+    "avatar": "/api/static/acl/user/profilePicture/p35.jpg"
+  },
+  {
+    "createTime": "2020-04-27 03:22:51",
+    "updateTime": "2022-08-15 08:50:05",
+    "id": 12,
+    "name": "何强",
+    "password": "gfYdzDk6",
+    "phone": "10346171196",
+    "roleName": [
+      "前台",
+      "厨子",
+      "后端"
+    ],
+    "username": "sophiejkl",
+    "avatar": "/api/static/acl/user/profilePicture/p29.jpg"
+  },
+  {
+    "createTime": "2021-06-15 20:36:35",
+    "updateTime": "2023-01-05 21:57:03",
+    "id": 13,
+    "name": "林芳晓",
+    "password": "YdueiZzh",
+    "phone": "17692910026",
+    "roleName": [
+      "测试",
+      "前端"
+    ],
+    "username": "michaelxyz",
+    "avatar": "/api/static/acl/user/profilePicture/p17.png"
+  },
+  {
+    "createTime": "2020-01-22 05:34:06",
+    "updateTime": "2023-05-02 23:58:18",
+    "id": 14,
+    "name": "徐强晓",
+    "password": "DcWowQDS",
+    "phone": "14865947645",
+    "roleName": [
+      "主管",
+      "前台"
+    ],
+    "username": "awdsa123",
+    "avatar": "/api/static/acl/user/profilePicture/p10.jpg"
+  },
+  {
+    "createTime": "2022-05-16 20:30:46",
+    "updateTime": "2023-02-15 08:55:38",
+    "id": 15,
+    "name": "赵勇",
+    "password": "pBr4oCRQ",
+    "phone": "13798116874",
+    "roleName": [
+      "运营"
+    ],
+    "username": "ryanjkl",
+    "avatar": "/api/static/acl/user/profilePicture/p49.avif"
+  },
+  {
+    "createTime": "2021-03-13 10:51:33",
+    "updateTime": "2022-11-23 18:43:06",
+    "id": 16,
+    "name": "吴勇小",
+    "password": "dAdhDGtk",
+    "phone": "12525302958",
+    "roleName": [
+      "财务"
+    ],
+    "username": "hannahghi",
+    "avatar": "/api/static/acl/user/profilePicture/p28.jpg"
+  },
+  {
+    "createTime": "2020-07-20 10:25:24",
+    "updateTime": "2022-10-25 09:52:18",
+    "id": 17,
+    "name": "朱勇",
+    "password": "2kQjjues",
+    "phone": "13620326732",
+    "roleName": [
+      "后端",
+      "销售",
+      "医生"
+    ],
+    "username": "sophiadef",
+    "avatar": "/api/static/acl/user/profilePicture/p31.jpg"
+  },
+  {
+    "createTime": "2020-12-21 10:59:40",
+    "updateTime": "2024-08-02 05:21:58",
+    "id": 18,
+    "name": "林秀英",
+    "password": "EXshXeFy",
+    "phone": "16409444377",
+    "roleName": [
+      "产品",
+      "运维",
+      "运营"
+    ],
+    "username": "ryan234",
+    "avatar": "/api/static/acl/user/profilePicture/p47.jpg"
+  },
+  {
+    "createTime": "2020-02-27 02:50:18",
+    "updateTime": "2022-06-17 12:38:17",
+    "id": 19,
+    "name": "周勇小",
+    "password": "ZTBap7aZ",
+    "phone": "11082326282",
+    "roleName": [
+      "前端"
+    ],
+    "username": "michaelyz1",
+    "avatar": "/api/static/acl/user/profilePicture/p11.jpg"
+  },
+  {
+    "createTime": "2021-03-27 01:52:34",
+    "updateTime": "2022-11-02 04:03:48",
+    "id": 20,
+    "name": "胡丽",
+    "password": "FfV4etE9",
+    "phone": "17585864055",
+    "roleName": [
+      "销售",
+      "主管",
+      "医生"
+    ],
+    "username": "peter567",
+    "avatar": "/api/static/acl/user/profilePicture/p25.jpg"
+  },
+  {
+    "createTime": "2021-05-01 06:27:01",
+    "updateTime": "2024-03-09 15:40:19",
+    "id": 21,
+    "name": "周勇",
+    "password": "E2CH7jOB",
+    "phone": "11513350822",
+    "roleName": [
+      "前台",
+      "前端"
+    ],
+    "username": "chloe456",
+    "avatar": "/api/static/acl/user/profilePicture/p28.jpg"
+  },
+  {
+    "createTime": "2020-08-10 01:21:25",
+    "updateTime": "2023-06-20 16:23:46",
+    "id": 22,
+    "name": "刘强",
+    "password": "KIKsQmCU",
+    "phone": "13204416298",
+    "roleName": [
+      "前台"
+    ],
+    "username": "johnpqr",
+    "avatar": "/api/static/acl/user/profilePicture/p31.jpg"
+  },
+  {
+    "createTime": "2022-08-01 01:47:16",
+    "updateTime": "2022-09-18 03:03:24",
+    "id": 23,
+    "name": "黄杰刚",
+    "password": "dzD7kLPY",
+    "phone": "16662519715",
+    "roleName": [
+      "厨子"
+    ],
+    "username": "sophiapqr",
+    "avatar": "/api/static/acl/user/profilePicture/p14.jpg"
+  },
+  {
+    "createTime": "2022-12-02 11:56:45",
+    "updateTime": "2022-10-17 11:16:38",
+    "id": 24,
+    "name": "吴敏",
+    "password": "JlBCSGfm",
+    "phone": "14642742269",
+    "roleName": [
+      "产品"
+    ],
+    "username": "sophiavwx",
+    "avatar": "/api/static/acl/user/profilePicture/p46.jpg"
+  },
+  {
+    "createTime": "2022-12-13 00:20:45",
+    "updateTime": "2023-11-22 10:57:03",
+    "id": 25,
+    "name": "王静芳",
+    "password": "lqLuijji",
+    "phone": "10790953495",
+    "roleName": [
+      "运营"
+    ],
+    "username": "chloe789",
+    "avatar": "/api/static/acl/user/profilePicture/p55.avif"
+  },
+  {
+    "createTime": "2020-02-24 02:42:10",
+    "updateTime": "2022-01-07 14:58:00",
+    "id": 26,
+    "name": "杨涛",
+    "password": "KSQ03oVq",
+    "phone": "13976243194",
+    "roleName": [
+      "财务"
+    ],
+    "username": "lucyabc",
+    "avatar": "/api/static/acl/user/profilePicture/p12.jpg"
+  },
+  {
+    "createTime": "2022-12-05 21:38:15",
+    "updateTime": "2023-02-21 07:28:12",
+    "id": 27,
+    "name": "罗丽",
+    "password": "SKc9VI1b",
+    "phone": "16256709570",
+    "roleName": [
+      "医生"
+    ],
+    "username": "danielxyz",
+    "avatar": "/api/static/acl/user/profilePicture/v2-879d7882f775f7babc978922373d56f0_720w.webp"
+  },
+  {
+    "createTime": "2022-09-14 20:18:31",
+    "updateTime": "2024-09-14 02:38:16",
+    "id": 28,
+    "name": "郭宇",
+    "password": "LqjF4GWU",
+    "phone": "12913706678",
+    "roleName": [
+      "测试"
+    ],
+    "username": "markyz1",
+    "avatar": "/api/static/acl/user/profilePicture/p30.jpg"
+  },
+  {
+    "createTime": "2021-06-24 20:51:23",
+    "updateTime": "2023-04-09 16:29:12",
+    "id": 29,
+    "name": "林涛刚",
+    "password": "Mjxqz540",
+    "phone": "18984809569",
+    "roleName": [
+      "前台",
+      "测试",
+      "销售"
+    ],
+    "username": "peterjkl",
+    "avatar": "/api/static/acl/user/profilePicture/p33.jpg"
+  },
+  {
+    "createTime": "2021-11-23 05:31:56",
+    "updateTime": "2022-03-08 09:12:42",
+    "id": 30,
+    "name": "何静芳",
+    "password": "sMq8qy1S",
+    "phone": "16209371900",
+    "roleName": [
+      "财务",
+      "销售",
+      "运维"
+    ],
+    "username": "sophiaabc",
+    "avatar": "/api/static/acl/user/profilePicture/p8.jpg"
+  },
+  {
+    "createTime": "2020-05-06 21:01:36",
+    "updateTime": "2024-06-26 14:50:52",
+    "id": 31,
+    "name": "郭红",
+    "password": "h58c7ehY",
+    "phone": "15744898174",
+    "roleName": [
+      "测试"
+    ],
+    "username": "olivia567",
+    "avatar": "/api/static/acl/user/profilePicture/p50.avif"
+  },
+  {
+    "createTime": "2022-11-24 04:51:06",
+    "updateTime": "2022-08-08 20:49:08",
+    "id": 32,
+    "name": "徐强晓",
+    "password": "1ofZVJ6i",
+    "phone": "14954825462",
+    "roleName": [
+      "销售",
+      "前端",
+      "前台"
+    ],
+    "username": "petervwx",
+    "avatar": "/api/static/acl/user/profilePicture/p48.jpg"
+  },
+  {
+    "createTime": "2021-02-08 04:51:46",
+    "updateTime": "2024-12-26 09:02:54",
+    "id": 33,
+    "name": "刘杰军",
+    "password": "8wAVAdeV",
+    "phone": "11013042664",
+    "roleName": [
+      "前端",
+      "运营",
+      "财务"
+    ],
+    "username": "sophia567",
+    "avatar": "/api/static/acl/user/profilePicture/p42.jpg"
+  },
+  {
+    "createTime": "2021-01-22 06:38:45",
+    "updateTime": "2024-10-24 20:14:00",
+    "id": 34,
+    "name": "杨刚敏",
+    "password": "1DfzWHn7",
+    "phone": "17341181095",
+    "roleName": [
+      "销售",
+      "厨子",
+      "运营"
+    ],
+    "username": "awdsaabc",
+    "avatar": "/api/static/acl/user/profilePicture/p50.avif"
+  },
+  {
+    "createTime": "2021-05-10 19:54:58",
+    "updateTime": "2023-11-02 19:07:39",
+    "id": 35,
+    "name": "胡杰军",
+    "password": "o853LVa4",
+    "phone": "15953908798",
+    "roleName": [
+      "运维"
+    ],
+    "username": "jacob123",
+    "avatar": "/api/static/acl/user/profilePicture/p34.jpg"
+  },
+  {
+    "createTime": "2022-01-26 05:23:50",
+    "updateTime": "2024-09-18 04:10:02",
+    "id": 36,
+    "name": "罗强",
+    "password": "6hCHctPt",
+    "phone": "17743211710",
+    "roleName": [
+      "销售",
+      "财务"
+    ],
+    "username": "jacob567",
+    "avatar": "/api/static/acl/user/profilePicture/p39.jpg"
+  },
+  {
+    "createTime": "2022-02-26 00:22:10",
+    "updateTime": "2024-06-28 07:39:17",
+    "id": 37,
+    "name": "孙涛军",
+    "password": "Bd7UBqAq",
+    "phone": "15202954766",
+    "roleName": [
+      "产品",
+      "前端"
+    ],
+    "username": "michael123",
+    "avatar": "/api/static/acl/user/profilePicture/p55.avif"
+  },
+  {
+    "createTime": "2021-06-11 09:54:00",
+    "updateTime": "2022-03-03 12:46:49",
+    "id": 38,
+    "name": "杨燕小",
+    "password": "lhhFNG6x",
+    "phone": "17024268294",
+    "roleName": [
+      "前台",
+      "产品"
+    ],
+    "username": "michaelabc",
+    "avatar": "/api/static/acl/user/profilePicture/p33.jpg"
+  },
+  {
+    "createTime": "2020-07-10 20:37:22",
+    "updateTime": "2022-03-04 08:30:35",
+    "id": 39,
+    "name": "李军红",
+    "password": "kRgqJr3O",
+    "phone": "17362076391",
+    "roleName": [
+      "主管",
+      "厨子"
+    ],
+    "username": "jacob789",
+    "avatar": "/api/static/acl/user/profilePicture/v2-eaf3e9ca4beece25ef60d6e3de02945c_720w.webp"
+  },
+  {
+    "createTime": "2021-07-02 23:52:21",
+    "updateTime": "2024-05-17 20:16:20",
+    "id": 40,
+    "name": "黄勇",
+    "password": "4oEKQ561",
+    "phone": "18238881618",
+    "roleName": [
+      "医生",
+      "运维"
+    ],
+    "username": "adam789",
+    "avatar": "/api/static/acl/user/profilePicture/p51.avif"
+  },
+  {
+    "createTime": "2020-04-22 16:59:40",
+    "updateTime": "2024-07-18 19:27:44",
+    "id": 41,
+    "name": "赵娜华",
+    "password": "LZEqwvdl",
+    "phone": "15297760118",
+    "roleName": [
+      "财务"
+    ],
+    "username": "daniel123",
+    "avatar": "/api/static/acl/user/profilePicture/p11.jpg"
+  },
+  {
+    "createTime": "2021-12-06 13:58:30",
+    "updateTime": "2022-07-19 05:55:58",
+    "id": 42,
+    "name": "朱明",
+    "password": "5mJmpMrH",
+    "phone": "17934841253",
+    "roleName": [
+      "主管"
+    ],
+    "username": "hannahjkl",
+    "avatar": "/api/static/acl/user/profilePicture/p14.jpg"
+  },
+  {
+    "createTime": "2021-03-01 11:48:15",
+    "updateTime": "2024-07-21 06:50:46",
+    "id": 43,
+    "name": "张勇小",
+    "password": "S2QevngA",
+    "phone": "10724156822",
+    "roleName": [
+      "财务",
+      "运营",
+      "测试"
+    ],
+    "username": "mark234",
+    "avatar": "/api/static/acl/user/profilePicture/p15.jpg"
+  },
+  {
+    "createTime": "2021-02-25 22:43:30",
+    "updateTime": "2022-04-06 21:17:00",
+    "id": 44,
+    "name": "周丽",
+    "password": "0bqKLxKX",
+    "phone": "11434931340",
+    "roleName": [
+      "后端",
+      "前台",
+      "销售"
+    ],
+    "username": "jacobstu",
+    "avatar": "/api/static/acl/user/profilePicture/p17.png"
+  },
+  {
+    "createTime": "2020-06-10 10:58:23",
+    "updateTime": "2022-01-01 09:45:47",
+    "id": 45,
+    "name": "周涛",
+    "password": "w1V1dl7C",
+    "phone": "15946135523",
+    "roleName": [
+      "前台"
+    ],
+    "username": "ryan789",
+    "avatar": "/api/static/acl/user/profilePicture/p39.jpg"
+  },
+  {
+    "createTime": "2022-11-27 03:41:39",
+    "updateTime": "2024-01-12 07:39:16",
+    "id": 46,
+    "name": "周静",
+    "password": "7ig7WrXY",
+    "phone": "10091716469",
+    "roleName": [
+      "运维",
+      "主管",
+      "医生"
+    ],
+    "username": "ryanxyz",
+    "avatar": "/api/static/acl/user/profilePicture/p31.jpg"
+  },
+  {
+    "createTime": "2024-03-09 15:38:34",
+    "updateTime": "2024-03-09 15:38:34",
+    "name": "不知道",
+    "password": "12222222222",
+    "phone": "11111111111",
+    "roleName": null,
+    "username": "啥1111111",
+    "avatar": "/api/static/acl/user/profilePicture/rabbit.jpg",
+    "id": 47
+  }
+]

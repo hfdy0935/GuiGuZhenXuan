@@ -1,0 +1,58 @@
+[
+  {
+    "username": "admin",
+    "is_online": 1
+  },
+  {
+    "username": "system",
+    "is_online": 0
+  },
+  {
+    "username": "mark789",
+    "is_online": 0
+  },
+  {
+    "username": "jessica456",
+    "is_online": 0
+  },
+  {
+    "username": "alexxyz",
+    "is_online": 0
+  },
+  {
+    "username": "emmaabc",
+    "is_online": 0
+  },
+  {
+    "username": "johnxyz",
+    "is_online": 0
+  },
+  {
+    "username": "admin1",
+    "is_online": 0
+  },
+  {
+    "username": "ethanabc",
+    "is_online": 1
+  },
+  {
+    "username": "oliviamno",
+    "is_online": 0
+  },
+  {
+    "username": "sarajkl",
+    "is_online": 0
+  },
+  {
+    "username": "oliviamno1",
+    "is_online": 0
+  },
+  {
+    "username": "ethanstu",
+    "is_online": 0
+  },
+  {
+    "username": "alexghi",
+    "is_online": 1
+  }
+]

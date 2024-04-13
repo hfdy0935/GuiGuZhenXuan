@@ -1,0 +1,1562 @@
+{
+  "title": "家具/家居/家装/厨具",
+  "contents": [
+    [
+      "经管励志",
+      {
+        "经济": [
+          {
+            "序号": 1,
+            "spuName": "Armani Exchange 时尚运动夹克",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Louis Vuitton Neverfull 经典购物袋",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Ralph Lauren Polo 高领毛衣",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Peloton Tread+ 时尚健身跑步机",
+            "skuInfo": []
+          },
+          {
+            "序号": 5,
+            "spuName": "The North Face Surge 时尚运动背包",
+            "skuInfo": []
+          },
+          {
+            "序号": 6,
+            "spuName": "Peloton Tread+ 时尚健身跑步机",
+            "skuInfo": []
+          },
+          {
+            "序号": 7,
+            "spuName": "Louis Vuitton Monogram 徽标帆布双肩包",
+            "skuInfo": []
+          },
+          {
+            "序号": 8,
+            "spuName": "Panasonic Lumix GH5S 专业微单相机",
+            "skuInfo": []
+          },
+          {
+            "序号": 9,
+            "spuName": "Chanel Classic Flap 经典链条包",
+            "skuInfo": []
+          },
+          {
+            "序号": 10,
+            "spuName": "Hugo Boss 优雅修身连衣裙",
+            "skuInfo": []
+          },
+          {
+            "序号": 11,
+            "spuName": "Apple MacBook Air 轻薄笔记本电脑",
+            "skuInfo": []
+          },
+          {
+            "序号": 12,
+            "spuName": "Hugo Boss BOSS Bottled 男士香水",
+            "skuInfo": []
+          },
+          {
+            "序号": 13,
+            "spuName": "Sony PlayStation 5 游戏主机",
+            "skuInfo": []
+          },
+          {
+            "序号": 14,
+            "spuName": "Panasonic Lumix GH5S 专业微单相机",
+            "skuInfo": []
+          }
+        ]
+      },
+      {
+        "金融与投资": [
+          {
+            "序号": 1,
+            "spuName": "Montblanc Meisterstück 黑色树脂钢笔",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Bose QuietComfort 45 高端降噪耳机",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Nike Air Zoom Pegasus 38 运动跑步鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Sony PlayStation 5 游戏主机",
+            "skuInfo": []
+          },
+          {
+            "序号": 5,
+            "spuName": "Ray-Ban Wayfarer 经典黑色墨镜",
+            "skuInfo": []
+          },
+          {
+            "序号": 6,
+            "spuName": "Gucci GG Supreme 印花背包",
+            "skuInfo": []
+          },
+          {
+            "序号": 7,
+            "spuName": "Hermès Birkin 手工皮革手袋",
+            "skuInfo": []
+          },
+          {
+            "序号": 8,
+            "spuName": "Peloton Tread+ 时尚健身跑步机",
+            "skuInfo": []
+          },
+          {
+            "序号": 9,
+            "spuName": "Hugo Boss 优雅修身连衣裙",
+            "skuInfo": []
+          }
+        ]
+      },
+      {
+        "管理": [
+          {
+            "序号": 1,
+            "spuName": "Rolex Submariner 黄金机械表",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Adidas Originals 潮流运动帽",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Louis Vuitton Neverfull 经典购物袋",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Canon EOS 5D Mark IV 专业相机",
+            "skuInfo": []
+          }
+        ]
+      },
+      {
+        "励志与成功": [
+          {
+            "序号": 1,
+            "spuName": "Bose QuietComfort 45 高端降噪耳机",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Rolex Submariner 黄金机械表",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Canon EOS 5D Mark IV 专业相机",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Philips 健康护眼台灯",
+            "skuInfo": []
+          },
+          {
+            "序号": 5,
+            "spuName": "Tiffany & Co. T 品牌手镯",
+            "skuInfo": []
+          },
+          {
+            "序号": 6,
+            "spuName": "Adidas Originals 潮流运动帽",
+            "skuInfo": []
+          },
+          {
+            "序号": 7,
+            "spuName": "Puma 时尚运动鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 8,
+            "spuName": "Dyson Supersonic 专业吹风机",
+            "skuInfo": []
+          },
+          {
+            "序号": 9,
+            "spuName": "Armani Exchange 时尚运动夹克",
+            "skuInfo": []
+          },
+          {
+            "序号": 10,
+            "spuName": "Chanel Classic Flap 经典链条包",
+            "skuInfo": []
+          },
+          {
+            "序号": 11,
+            "spuName": "Nike Air Zoom Pegasus 38 运动跑步鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 12,
+            "spuName": "Philips 健康护眼台灯",
+            "skuInfo": []
+          },
+          {
+            "序号": 13,
+            "spuName": "Montblanc Meisterstück 黑色树脂钢笔",
+            "skuInfo": []
+          },
+          {
+            "序号": 14,
+            "spuName": "Peloton Tread+ 时尚健身跑步机",
+            "skuInfo": []
+          },
+          {
+            "序号": 15,
+            "spuName": "Louis Vuitton Neverfull 经典购物袋",
+            "skuInfo": []
+          },
+          {
+            "序号": 16,
+            "spuName": "Apple MacBook Air 轻薄笔记本电脑",
+            "skuInfo": []
+          },
+          {
+            "序号": 17,
+            "spuName": "Levi's 501 经典牛仔裤",
+            "skuInfo": []
+          },
+          {
+            "序号": 18,
+            "spuName": "Panasonic Lumix GH5S 专业微单相机",
+            "skuInfo": []
+          },
+          {
+            "序号": 19,
+            "spuName": "Rolex Datejust 36 黄金腕表",
+            "skuInfo": []
+          },
+          {
+            "序号": 20,
+            "spuName": "Samsung Galaxy Z Fold 3 折叠智能手机",
+            "skuInfo": []
+          }
+        ]
+      }
+    ],
+    [
+      "生活",
+      {
+        "健康与保健": [
+          {
+            "序号": 1,
+            "spuName": "Hugo Boss 优雅修身连衣裙",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Mercedes-Benz S-Class 豪华轿车",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Lancôme La Vie Est Belle 高端香水",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Philips 健康护眼台灯",
+            "skuInfo": []
+          },
+          {
+            "序号": 5,
+            "spuName": "Rolex Submariner 黄金机械表",
+            "skuInfo": []
+          },
+          {
+            "序号": 6,
+            "spuName": "Louis Vuitton Neverfull 经典购物袋",
+            "skuInfo": []
+          },
+          {
+            "序号": 7,
+            "spuName": "Tiffany & Co. T 品牌手镯",
+            "skuInfo": []
+          },
+          {
+            "序号": 8,
+            "spuName": "Dyson Supersonic 专业吹风机",
+            "skuInfo": []
+          },
+          {
+            "序号": 9,
+            "spuName": "Canon EOS 5D Mark IV 专业相机",
+            "skuInfo": []
+          },
+          {
+            "序号": 10,
+            "spuName": "Samsung Galaxy Z Fold 3 折叠智能手机",
+            "skuInfo": []
+          },
+          {
+            "序号": 11,
+            "spuName": "Samsung Galaxy Z Fold 3 折叠智能手机",
+            "skuInfo": []
+          },
+          {
+            "序号": 12,
+            "spuName": "Hugo Boss 优雅修身连衣裙",
+            "skuInfo": []
+          },
+          {
+            "序号": 13,
+            "spuName": "Gucci GG Supreme 印花背包",
+            "skuInfo": []
+          },
+          {
+            "序号": 14,
+            "spuName": "Nike Air Zoom Pegasus 38 运动跑步鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 15,
+            "spuName": "Chanel Classic Flap 经典链条包",
+            "skuInfo": []
+          },
+          {
+            "序号": 16,
+            "spuName": "Apple MacBook Air 轻薄笔记本电脑",
+            "skuInfo": []
+          },
+          {
+            "序号": 17,
+            "spuName": "Sony PlayStation 5 游戏主机",
+            "skuInfo": []
+          },
+          {
+            "序号": 18,
+            "spuName": "Hugo Boss BOSS Bottled 男士香水",
+            "skuInfo": []
+          },
+          {
+            "序号": 19,
+            "spuName": "Nike Air Zoom Pegasus 38 运动跑步鞋",
+            "skuInfo": []
+          }
+        ]
+      },
+      {
+        "家庭与育儿": [
+          {
+            "序号": 1,
+            "spuName": "Ray-Ban Wayfarer 经典黑色墨镜",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Mercedes-Benz S-Class 豪华轿车",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Apple MacBook Air 轻薄笔记本电脑",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Chanel Classic Flap 经典链条包",
+            "skuInfo": []
+          },
+          {
+            "序号": 5,
+            "spuName": "Tiffany & Co. T 品牌手镯",
+            "skuInfo": []
+          },
+          {
+            "序号": 6,
+            "spuName": "Montblanc Meisterstück 黑色树脂钢笔",
+            "skuInfo": []
+          },
+          {
+            "序号": 7,
+            "spuName": "Adidas Originals 潮流运动帽",
+            "skuInfo": []
+          },
+          {
+            "序号": 8,
+            "spuName": "Sony PlayStation 5 游戏主机",
+            "skuInfo": []
+          },
+          {
+            "序号": 9,
+            "spuName": "Nike Air Zoom Pegasus 38 运动跑步鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 10,
+            "spuName": "Lancôme La Vie Est Belle 高端香水",
+            "skuInfo": []
+          },
+          {
+            "序号": 11,
+            "spuName": "Bose QuietComfort 45 高端降噪耳机",
+            "skuInfo": []
+          },
+          {
+            "序号": 12,
+            "spuName": "Montblanc Meisterstück 黑色树脂钢笔",
+            "skuInfo": []
+          },
+          {
+            "序号": 13,
+            "spuName": "Burberry 时尚休闲皮鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 14,
+            "spuName": "Tiffany & Co. T 品牌手镯",
+            "skuInfo": []
+          },
+          {
+            "序号": 15,
+            "spuName": "Peloton Tread+ 时尚健身跑步机",
+            "skuInfo": []
+          },
+          {
+            "序号": 16,
+            "spuName": "Levi's 501 经典牛仔裤",
+            "skuInfo": []
+          }
+        ]
+      },
+      {
+        "旅游": [
+          {
+            "序号": 1,
+            "spuName": "Hermès Birkin 手工皮革手袋",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Lancôme La Vie Est Belle 高端香水",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Rolex Datejust 36 黄金腕表",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Hugo Boss 优雅修身连衣裙",
+            "skuInfo": []
+          },
+          {
+            "序号": 5,
+            "spuName": "Tiffany & Co. T 品牌手镯",
+            "skuInfo": []
+          },
+          {
+            "序号": 6,
+            "spuName": "Apple MacBook Air 轻薄笔记本电脑",
+            "skuInfo": []
+          },
+          {
+            "序号": 7,
+            "spuName": "Ray-Ban Wayfarer 经典黑色墨镜",
+            "skuInfo": []
+          },
+          {
+            "序号": 8,
+            "spuName": "Hugo Boss 优雅修身连衣裙",
+            "skuInfo": []
+          },
+          {
+            "序号": 9,
+            "spuName": "Canon EOS 5D Mark IV 专业相机",
+            "skuInfo": []
+          },
+          {
+            "序号": 10,
+            "spuName": "Ray-Ban Wayfarer 经典黑色墨镜",
+            "skuInfo": []
+          },
+          {
+            "序号": 11,
+            "spuName": "Hugo Boss BOSS Bottled 男士香水",
+            "skuInfo": []
+          },
+          {
+            "序号": 12,
+            "spuName": "Armani Exchange 时尚运动夹克",
+            "skuInfo": []
+          },
+          {
+            "序号": 13,
+            "spuName": "Bose QuietComfort 45 高端降噪耳机",
+            "skuInfo": []
+          }
+        ]
+      },
+      {
+        "励志与成功": [
+          {
+            "序号": 1,
+            "spuName": "Rolex Datejust 36 黄金腕表",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Hermès Birkin 手工皮革手袋",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Louis Vuitton Neverfull 经典购物袋",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Canon EOS 5D Mark IV 专业相机",
+            "skuInfo": []
+          },
+          {
+            "序号": 5,
+            "spuName": "Ray-Ban Wayfarer 经典黑色墨镜",
+            "skuInfo": []
+          },
+          {
+            "序号": 6,
+            "spuName": "Nike Air Zoom Pegasus 38 运动跑步鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 7,
+            "spuName": "Tiffany & Co. T 品牌手镯",
+            "skuInfo": []
+          },
+          {
+            "序号": 8,
+            "spuName": "Apple MacBook Air 轻薄笔记本电脑",
+            "skuInfo": []
+          },
+          {
+            "序号": 9,
+            "spuName": "Sony PlayStation 5 游戏主机",
+            "skuInfo": []
+          },
+          {
+            "序号": 10,
+            "spuName": "Ray-Ban Wayfarer 经典黑色墨镜",
+            "skuInfo": []
+          },
+          {
+            "序号": 11,
+            "spuName": "Montblanc Meisterstück 黑色树脂钢笔",
+            "skuInfo": []
+          },
+          {
+            "序号": 12,
+            "spuName": "Louis Vuitton Neverfull 经典购物袋",
+            "skuInfo": []
+          },
+          {
+            "序号": 13,
+            "spuName": "Philips 健康护眼台灯",
+            "skuInfo": []
+          },
+          {
+            "序号": 14,
+            "spuName": "Dyson Supersonic 专业吹风机",
+            "skuInfo": []
+          },
+          {
+            "序号": 15,
+            "spuName": "Sony PlayStation 5 游戏主机",
+            "skuInfo": []
+          },
+          {
+            "序号": 16,
+            "spuName": "Armani Exchange 时尚运动夹克",
+            "skuInfo": []
+          },
+          {
+            "序号": 17,
+            "spuName": "Michael Kors 时尚女士手提包",
+            "skuInfo": []
+          },
+          {
+            "序号": 18,
+            "spuName": "Armani Exchange 时尚运动夹克",
+            "skuInfo": []
+          }
+        ]
+      }
+    ],
+    [
+      "科技",
+      {
+        "工业技术": [
+          {
+            "序号": 1,
+            "spuName": "Lancôme La Vie Est Belle 高端香水",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Philips 健康护眼台灯",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Philips 健康护眼台灯",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Burberry 时尚休闲皮鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 5,
+            "spuName": "Nike Air Zoom Pegasus 38 运动跑步鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 6,
+            "spuName": "Montblanc Meisterstück 黑色树脂钢笔",
+            "skuInfo": []
+          },
+          {
+            "序号": 7,
+            "spuName": "Peloton Tread+ 时尚健身跑步机",
+            "skuInfo": []
+          },
+          {
+            "序号": 8,
+            "spuName": "Bose QuietComfort 45 高端降噪耳机",
+            "skuInfo": []
+          },
+          {
+            "序号": 9,
+            "spuName": "Sony PlayStation 5 游戏主机",
+            "skuInfo": []
+          },
+          {
+            "序号": 10,
+            "spuName": "Hugo Boss BOSS Bottled 男士香水",
+            "skuInfo": []
+          },
+          {
+            "序号": 11,
+            "spuName": "Ray-Ban Wayfarer 经典黑色墨镜",
+            "skuInfo": []
+          },
+          {
+            "序号": 12,
+            "spuName": "Apple MacBook Air 轻薄笔记本电脑",
+            "skuInfo": []
+          },
+          {
+            "序号": 13,
+            "spuName": "Nike Air Zoom Pegasus 38 运动跑步鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 14,
+            "spuName": "Hermès Birkin 手工皮革手袋",
+            "skuInfo": []
+          },
+          {
+            "序号": 15,
+            "spuName": "Louis Vuitton Monogram 徽标帆布双肩包",
+            "skuInfo": []
+          },
+          {
+            "序号": 16,
+            "spuName": "Canon EOS 5D Mark IV 专业相机",
+            "skuInfo": []
+          },
+          {
+            "序号": 17,
+            "spuName": "Armani Exchange 时尚运动夹克",
+            "skuInfo": []
+          },
+          {
+            "序号": 18,
+            "spuName": "Adidas Originals 潮流运动帽",
+            "skuInfo": []
+          },
+          {
+            "序号": 19,
+            "spuName": "Apple MacBook Air 轻薄笔记本电脑",
+            "skuInfo": []
+          }
+        ]
+      },
+      {
+        "金科普读物": [
+          {
+            "序号": 1,
+            "spuName": "Apple MacBook Air 轻薄笔记本电脑",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Peloton Tread+ 时尚健身跑步机",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Panasonic Lumix GH5S 专业微单相机",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Mercedes-Benz S-Class 豪华轿车",
+            "skuInfo": []
+          },
+          {
+            "序号": 5,
+            "spuName": "Hugo Boss 优雅修身连衣裙",
+            "skuInfo": []
+          },
+          {
+            "序号": 6,
+            "spuName": "Adidas Originals 潮流运动帽",
+            "skuInfo": []
+          },
+          {
+            "序号": 7,
+            "spuName": "Louis Vuitton Monogram 徽标帆布双肩包",
+            "skuInfo": []
+          },
+          {
+            "序号": 8,
+            "spuName": "Burberry 时尚休闲皮鞋",
+            "skuInfo": []
+          }
+        ]
+      },
+      {
+        "建筑": [
+          {
+            "序号": 1,
+            "spuName": "Louis Vuitton Monogram 徽标帆布双肩包",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Philips 健康护眼台灯",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Rolex Submariner 黄金机械表",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Hugo Boss BOSS Bottled 男士香水",
+            "skuInfo": []
+          },
+          {
+            "序号": 5,
+            "spuName": "Panasonic Lumix GH5S 专业微单相机",
+            "skuInfo": []
+          }
+        ]
+      },
+      {
+        "医学": [
+          {
+            "序号": 1,
+            "spuName": "Hugo Boss 优雅修身连衣裙",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Gucci GG Supreme 印花背包",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Nike Air Zoom Pegasus 38 运动跑步鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Peloton Tread+ 时尚健身跑步机",
+            "skuInfo": []
+          },
+          {
+            "序号": 5,
+            "spuName": "Mercedes-Benz S-Class 豪华轿车",
+            "skuInfo": []
+          },
+          {
+            "序号": 6,
+            "spuName": "Apple MacBook Air 轻薄笔记本电脑",
+            "skuInfo": []
+          },
+          {
+            "序号": 7,
+            "spuName": "Bose QuietComfort 45 高端降噪耳机",
+            "skuInfo": []
+          },
+          {
+            "序号": 8,
+            "spuName": "Louis Vuitton Neverfull 经典购物袋",
+            "skuInfo": []
+          },
+          {
+            "序号": 9,
+            "spuName": "Ray-Ban Wayfarer 经典黑色墨镜",
+            "skuInfo": []
+          }
+        ]
+      },
+      {
+        "科学与自然": [
+          {
+            "序号": 1,
+            "spuName": "Ray-Ban Wayfarer 经典黑色墨镜",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Rolex Submariner 黄金机械表",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Armani Exchange 时尚运动夹克",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Louis Vuitton Neverfull 经典购物袋",
+            "skuInfo": []
+          }
+        ]
+      },
+      {
+        "计算机与互联网": [
+          {
+            "序号": 1,
+            "spuName": "Apple MacBook Air 轻薄笔记本电脑",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Ralph Lauren Polo 高领毛衣",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Montblanc Meisterstück 黑色树脂钢笔",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Peloton Tread+ 时尚健身跑步机",
+            "skuInfo": []
+          },
+          {
+            "序号": 5,
+            "spuName": "Puma 时尚运动鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 6,
+            "spuName": "Panasonic Lumix GH5S 专业微单相机",
+            "skuInfo": []
+          },
+          {
+            "序号": 7,
+            "spuName": "Michael Kors 时尚女士手提包",
+            "skuInfo": []
+          },
+          {
+            "序号": 8,
+            "spuName": "Burberry 时尚休闲皮鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 9,
+            "spuName": "Tiffany & Co. T 品牌手镯",
+            "skuInfo": []
+          },
+          {
+            "序号": 10,
+            "spuName": "Sony PlayStation 5 游戏主机",
+            "skuInfo": []
+          },
+          {
+            "序号": 11,
+            "spuName": "Rolex Submariner 黄金机械表",
+            "skuInfo": []
+          }
+        ]
+      }
+    ],
+    [
+      "教育",
+      {
+        "中小学教辅": [
+          {
+            "序号": 1,
+            "spuName": "Louis Vuitton Monogram 徽标帆布双肩包",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Montblanc Meisterstück 黑色树脂钢笔",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Apple MacBook Air 轻薄笔记本电脑",
+            "skuInfo": []
+          }
+        ]
+      },
+      {
+        "教育与考试": [
+          {
+            "序号": 1,
+            "spuName": "Hugo Boss 优雅修身连衣裙",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Louis Vuitton Neverfull 经典购物袋",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Adidas Originals 潮流运动帽",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Sony PlayStation 5 游戏主机",
+            "skuInfo": []
+          },
+          {
+            "序号": 5,
+            "spuName": "Nike Air Zoom Pegasus 38 运动跑步鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 6,
+            "spuName": "Ray-Ban Wayfarer 经典黑色墨镜",
+            "skuInfo": []
+          },
+          {
+            "序号": 7,
+            "spuName": "Peloton Tread+ 时尚健身跑步机",
+            "skuInfo": []
+          },
+          {
+            "序号": 8,
+            "spuName": "Nike Air Zoom Pegasus 38 运动跑步鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 9,
+            "spuName": "Peloton Tread+ 时尚健身跑步机",
+            "skuInfo": []
+          }
+        ]
+      },
+      {
+        "外语学习": [
+          {
+            "序号": 1,
+            "spuName": "Sony PlayStation 5 游戏主机",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Hermès Birkin 手工皮革手袋",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Tiffany & Co. T 品牌手镯",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Apple MacBook Air 轻薄笔记本电脑",
+            "skuInfo": []
+          },
+          {
+            "序号": 5,
+            "spuName": "Panasonic Lumix GH5S 专业微单相机",
+            "skuInfo": []
+          },
+          {
+            "序号": 6,
+            "spuName": "Hugo Boss BOSS Bottled 男士香水",
+            "skuInfo": []
+          },
+          {
+            "序号": 7,
+            "spuName": "Nike Air Zoom Pegasus 38 运动跑步鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 8,
+            "spuName": "Hermès Birkin 手工皮革手袋",
+            "skuInfo": []
+          },
+          {
+            "序号": 9,
+            "spuName": "Montblanc Meisterstück 黑色树脂钢笔",
+            "skuInfo": []
+          },
+          {
+            "序号": 10,
+            "spuName": "Peloton Tread+ 时尚健身跑步机",
+            "skuInfo": []
+          },
+          {
+            "序号": 11,
+            "spuName": "Burberry 时尚休闲皮鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 12,
+            "spuName": "Bose QuietComfort 45 高端降噪耳机",
+            "skuInfo": []
+          },
+          {
+            "序号": 13,
+            "spuName": "Adidas Originals 潮流运动帽",
+            "skuInfo": []
+          },
+          {
+            "序号": 14,
+            "spuName": "Puma 时尚运动鞋",
+            "skuInfo": []
+          }
+        ]
+      },
+      {
+        "大中专教材": [
+          {
+            "序号": 1,
+            "spuName": "Apple MacBook Air 轻薄笔记本电脑",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Armani Exchange 时尚运动夹克",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Samsung Galaxy Z Fold 3 折叠智能手机",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Ralph Lauren Polo 高领毛衣",
+            "skuInfo": []
+          },
+          {
+            "序号": 5,
+            "spuName": "Philips 健康护眼台灯",
+            "skuInfo": []
+          },
+          {
+            "序号": 6,
+            "spuName": "Mercedes-Benz S-Class 豪华轿车",
+            "skuInfo": []
+          }
+        ]
+      },
+      {
+        "科学与自然": [
+          {
+            "序号": 1,
+            "spuName": "Ralph Lauren Polo 高领毛衣",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Rolex Submariner 黄金机械表",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Apple MacBook Air 轻薄笔记本电脑",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Canon EOS 5D Mark IV 专业相机",
+            "skuInfo": []
+          },
+          {
+            "序号": 5,
+            "spuName": "Samsung Galaxy Z Fold 3 折叠智能手机",
+            "skuInfo": []
+          },
+          {
+            "序号": 6,
+            "spuName": "Nike Air Zoom Pegasus 38 运动跑步鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 7,
+            "spuName": "Philips 健康护眼台灯",
+            "skuInfo": []
+          },
+          {
+            "序号": 8,
+            "spuName": "Gucci GG Supreme 印花背包",
+            "skuInfo": []
+          },
+          {
+            "序号": 9,
+            "spuName": "Hugo Boss BOSS Bottled 男士香水",
+            "skuInfo": []
+          },
+          {
+            "序号": 10,
+            "spuName": "Louis Vuitton Neverfull 经典购物袋",
+            "skuInfo": []
+          },
+          {
+            "序号": 11,
+            "spuName": "Adidas Originals 潮流运动帽",
+            "skuInfo": []
+          }
+        ]
+      },
+      {
+        "字典词典": [
+          {
+            "序号": 1,
+            "spuName": "Panasonic Lumix GH5S 专业微单相机",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Mercedes-Benz S-Class 豪华轿车",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Montblanc Meisterstück 黑色树脂钢笔",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Adidas Originals 潮流运动帽",
+            "skuInfo": []
+          }
+        ]
+      }
+    ],
+    [
+      "艺术收藏",
+      {
+        "经济管理": [
+          {
+            "序号": 1,
+            "spuName": "Puma 时尚运动鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Gucci GG Supreme 印花背包",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Nike Air Zoom Pegasus 38 运动跑步鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Rolex Submariner 黄金机械表",
+            "skuInfo": []
+          },
+          {
+            "序号": 5,
+            "spuName": "Ray-Ban Wayfarer 经典黑色墨镜",
+            "skuInfo": []
+          }
+        ]
+      },
+      {
+        "文化与艺术": [
+          {
+            "序号": 1,
+            "spuName": "Mercedes-Benz S-Class 豪华轿车",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Lancôme La Vie Est Belle 高端香水",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Hugo Boss 优雅修身连衣裙",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Hermès Birkin 手工皮革手袋",
+            "skuInfo": []
+          },
+          {
+            "序号": 5,
+            "spuName": "Tiffany & Co. T 品牌手镯",
+            "skuInfo": []
+          },
+          {
+            "序号": 6,
+            "spuName": "Nike Air Zoom Pegasus 38 运动跑步鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 7,
+            "spuName": "Dyson Supersonic 专业吹风机",
+            "skuInfo": []
+          },
+          {
+            "序号": 8,
+            "spuName": "Sony PlayStation 5 游戏主机",
+            "skuInfo": []
+          },
+          {
+            "序号": 9,
+            "spuName": "Hugo Boss BOSS Bottled 男士香水",
+            "skuInfo": []
+          },
+          {
+            "序号": 10,
+            "spuName": "Armani Exchange 时尚运动夹克",
+            "skuInfo": []
+          },
+          {
+            "序号": 11,
+            "spuName": "Sony PlayStation 5 游戏主机",
+            "skuInfo": []
+          }
+        ]
+      }
+    ],
+    [
+      "其他",
+      {
+        "工具书": [
+          {
+            "序号": 1,
+            "spuName": "Ray-Ban Wayfarer 经典黑色墨镜",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Peloton Tread+ 时尚健身跑步机",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Chanel Classic Flap 经典链条包",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Montblanc Meisterstück 黑色树脂钢笔",
+            "skuInfo": []
+          },
+          {
+            "序号": 5,
+            "spuName": "Peloton Tread+ 时尚健身跑步机",
+            "skuInfo": []
+          },
+          {
+            "序号": 6,
+            "spuName": "Tiffany & Co. T 品牌手镯",
+            "skuInfo": []
+          },
+          {
+            "序号": 7,
+            "spuName": "Gucci GG Supreme 印花背包",
+            "skuInfo": []
+          },
+          {
+            "序号": 8,
+            "spuName": "Louis Vuitton Neverfull 经典购物袋",
+            "skuInfo": []
+          },
+          {
+            "序号": 9,
+            "spuName": "Samsung Galaxy Z Fold 3 折叠智能手机",
+            "skuInfo": []
+          },
+          {
+            "序号": 10,
+            "spuName": "Hugo Boss 优雅修身连衣裙",
+            "skuInfo": []
+          },
+          {
+            "序号": 11,
+            "spuName": "Ralph Lauren Polo 高领毛衣",
+            "skuInfo": []
+          },
+          {
+            "序号": 12,
+            "spuName": "Rolex Submariner 黄金机械表",
+            "skuInfo": []
+          },
+          {
+            "序号": 13,
+            "spuName": "Louis Vuitton Monogram 徽标帆布双肩包",
+            "skuInfo": []
+          }
+        ]
+      },
+      {
+        "杂志期刊": [
+          {
+            "序号": 1,
+            "spuName": "Rolex Datejust 36 黄金腕表",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Montblanc Meisterstück 黑色树脂钢笔",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Ralph Lauren Polo 高领毛衣",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Nike Air Zoom Pegasus 38 运动跑步鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 5,
+            "spuName": "Sony PlayStation 5 游戏主机",
+            "skuInfo": []
+          },
+          {
+            "序号": 6,
+            "spuName": "Apple MacBook Air 轻薄笔记本电脑",
+            "skuInfo": []
+          },
+          {
+            "序号": 7,
+            "spuName": "Adidas Originals 潮流运动帽",
+            "skuInfo": []
+          },
+          {
+            "序号": 8,
+            "spuName": "Sony PlayStation 5 游戏主机",
+            "skuInfo": []
+          },
+          {
+            "序号": 9,
+            "spuName": "Dyson Supersonic 专业吹风机",
+            "skuInfo": []
+          },
+          {
+            "序号": 10,
+            "spuName": "Nike Air Zoom Pegasus 38 运动跑步鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 11,
+            "spuName": "Apple MacBook Air 轻薄笔记本电脑",
+            "skuInfo": []
+          },
+          {
+            "序号": 12,
+            "spuName": "Lancôme La Vie Est Belle 高端香水",
+            "skuInfo": []
+          },
+          {
+            "序号": 13,
+            "spuName": "Hugo Boss 优雅修身连衣裙",
+            "skuInfo": []
+          }
+        ]
+      },
+      {
+        "套装书": [
+          {
+            "序号": 1,
+            "spuName": "Panasonic Lumix GH5S 专业微单相机",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Canon EOS 5D Mark IV 专业相机",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Tiffany & Co. T 品牌手镯",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Philips 健康护眼台灯",
+            "skuInfo": []
+          },
+          {
+            "序号": 5,
+            "spuName": "Mercedes-Benz S-Class 豪华轿车",
+            "skuInfo": []
+          },
+          {
+            "序号": 6,
+            "spuName": "Peloton Tread+ 时尚健身跑步机",
+            "skuInfo": []
+          },
+          {
+            "序号": 7,
+            "spuName": "Samsung Galaxy Z Fold 3 折叠智能手机",
+            "skuInfo": []
+          },
+          {
+            "序号": 8,
+            "spuName": "Lancôme La Vie Est Belle 高端香水",
+            "skuInfo": []
+          },
+          {
+            "序号": 9,
+            "spuName": "Rolex Submariner 黄金机械表",
+            "skuInfo": []
+          },
+          {
+            "序号": 10,
+            "spuName": "Levi's 501 经典牛仔裤",
+            "skuInfo": []
+          },
+          {
+            "序号": 11,
+            "spuName": "Ray-Ban Wayfarer 经典黑色墨镜",
+            "skuInfo": []
+          }
+        ]
+      },
+      {
+        "打折图书": [
+          {
+            "序号": 1,
+            "spuName": "Burberry 时尚休闲皮鞋",
+            "skuInfo": []
+          },
+          {
+            "序号": 2,
+            "spuName": "Mercedes-Benz S-Class 豪华轿车",
+            "skuInfo": []
+          },
+          {
+            "序号": 3,
+            "spuName": "Hugo Boss 优雅修身连衣裙",
+            "skuInfo": []
+          },
+          {
+            "序号": 4,
+            "spuName": "Dyson Supersonic 专业吹风机",
+            "skuInfo": []
+          },
+          {
+            "序号": 5,
+            "spuName": "Louis Vuitton Neverfull 经典购物袋",
+            "skuInfo": []
+          },
+          {
+            "序号": 6,
+            "spuName": "The North Face Surge 时尚运动背包",
+            "skuInfo": []
+          },
+          {
+            "序号": 7,
+            "spuName": "Philips 健康护眼台灯",
+            "skuInfo": []
+          },
+          {
+            "序号": 8,
+            "spuName": "Michael Kors 时尚女士手提包",
+            "skuInfo": []
+          },
+          {
+            "序号": 9,
+            "spuName": "Apple MacBook Air 轻薄笔记本电脑",
+            "skuInfo": []
+          },
+          {
+            "序号": 10,
+            "spuName": "Sony PlayStation 5 游戏主机",
+            "skuInfo": []
+          },
+          {
+            "序号": 11,
+            "spuName": "Canon EOS 5D Mark IV 专业相机",
+            "skuInfo": []
+          },
+          {
+            "序号": 12,
+            "spuName": "Bose QuietComfort 45 高端降噪耳机",
+            "skuInfo": []
+          },
+          {
+            "序号": 13,
+            "spuName": "Montblanc Meisterstück 黑色树脂钢笔",
+            "skuInfo": []
+          },
+          {
+            "序号": 14,
+            "spuName": "Chanel Classic Flap 经典链条包",
+            "skuInfo": []
+          },
+          {
+            "序号": 15,
+            "spuName": "Rolex Submariner 黄金机械表",
+            "skuInfo": []
+          },
+          {
+            "序号": 16,
+            "spuName": "Rolex Submariner 黄金机械表",
+            "skuInfo": []
+          },
+          {
+            "序号": 17,
+            "spuName": "Chanel Classic Flap 经典链条包",
+            "skuInfo": []
+          },
+          {
+            "序号": 18,
+            "spuName": "Nike Air Zoom Pegasus 38 运动跑步鞋",
+            "skuInfo": []
+          }
+        ]
+      }
+    ]
+  ]
+}
